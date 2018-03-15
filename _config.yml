@@ -3,7 +3,7 @@ title: Sport Faces
 subtitle:
 email: info@robbertenfrank.com
 description: Een project in het kader van Kortrijk Europese Sportstad 2018 <br/>Frank&Robbert Robbert&Frank i.s.m. Buda VZW, Bubox en Stad Kortrijk.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/sportfaces" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Robbert&Frank Frank&Robbert
 street_address:
