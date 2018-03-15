@@ -5,12 +5,12 @@ email: info@robbertenfrank.com
 description: Een project in het kader van Kortrijk Europese Sportstad 2018 <br/>Frank&Robbert Robbert&Frank i.s.m. Buda VZW, Bubox en Stad Kortrijk.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
+author:Robbert&Frank Frank&Robbert
 street_address:
 city:
 state:
 zip_code:
-country:
+country: Belgium
 phone:
 
 # homepage tiles
@@ -19,7 +19,7 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url:http://www.facebook.com/frankenrobbertrobbertenfrank
 github_url:
 gitlab_url:
 googleplus_url:
